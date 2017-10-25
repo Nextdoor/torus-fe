@@ -1,0 +1,13 @@
+.Presentation {
+  min-height: 100vh;
+  background-color: black;
+  color: white;
+}
+
+.Presentation .page-link {
+  background-color: black;
+}
+
+.Presentation .page-item.disabled .page-link {
+  background-color: black;
+}

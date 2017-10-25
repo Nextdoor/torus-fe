@@ -1,0 +1,17 @@
+.byline {
+  font-size: smaller;
+  color: grey;
+}
+
+.pending {
+  color: grey;
+}
+
+.score {
+  width: 3rem;
+}
+
+.question {
+  margin-top: 1rem;
+  margin-bottom: 3rem;
+}
