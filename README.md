@@ -15,7 +15,7 @@ Prerequisites
 Running in development
 ----------------------
 
-Run the Torus backend development server. See https://github.com/Nextdoor/torus.
+Run the Torus backend development server. See https://github.com/Nextdoor/torus-ae.
 
 Start the development server:
 
@@ -28,4 +28,4 @@ Build:
 
     npm run Build
 
-Copy the contents of the `/build` directory into a directory in the torus backend ("torus" repository) working directory called `/frontend`, creating it if necessary.
+Copy the contents of the `/build` directory into a directory in the torus backend ("torus-ae" repository) working directory called `/frontend`, creating it if necessary.
